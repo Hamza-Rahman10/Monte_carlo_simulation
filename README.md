@@ -1,2 +1,6 @@
 # Monte_carlo_simulation
-Foundation year assessment
+Foundation year assessment:
+
+Monte Carlo simulation is an effective computing tool for modelling the likelihood of various outcomes in complex systems influenced by random variables. Named after the famed Monte Carlo Casino in Monaco, this approach uses repeated random sampling to produce numerical conclusions, making it especially beneficial for problems that are difficult or impossible to solve analytically. The Monte Carlo simulation, which runs dozens or even millions of simulations with various inputs based on probability distributions, presents a variety of possible outcomes and their probabilities, providing useful insights into risk, uncertainty, and decision-making. It is frequently employed in industries such as finance, engineering, physics, project management, and artificial intelligence. It helps estimate the impact of risk and uncertainty in forecasting models. For example, in finance, it may be used to evaluate the risk of an investment portfolio, but in engineering, it can anticipate the chance of system failure. The Monte Carlo simulation's strength is its flexibility and ability to easily handle big, multidimensional issues.
+
+![image](https://github.com/user-attachments/assets/5c0d25f6-ada8-47f0-a9b8-76e3559f7a5a)
